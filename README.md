@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[<img align="left" alt="webnoob | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sabbir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail]
 
 [twitter]: https://twitter.com/sabbirsobhani
+[mail]: https://sabbirsobhani@gmail.com
 
 <br />
 <br />
