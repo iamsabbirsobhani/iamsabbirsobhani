@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbirsobhani&layout=compact" />
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?iamsabbirsobhani=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
