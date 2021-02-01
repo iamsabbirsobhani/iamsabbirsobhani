@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail]
 
 [twitter]: https://twitter.com/sabbirsobhani
-[mail]: https://sabbirsobhani@gmail.com
+[mail]: mailto:sabbirsobhani@gmail.com
 
 <br />
 <br />
