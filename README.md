@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Mail me: 
+### Mail: 
 [<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail] 
 
 [mail]: mailto:sabbirsobhani@gmail.com
