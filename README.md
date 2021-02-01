@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Mail me 
-[<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail]
+
+### <span>Mail me:</span> [<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail] 
 
 [mail]: mailto:sabbirsobhani@gmail.com
 
