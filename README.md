@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
+### Connect with me:
+[<img align="left" alt="webnoob | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[twitter]: https://twitter.com/sabbirsobhani
+
+<br />
+<br />
+
+[<img align="left" alt="webnoob | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsabbirsobhani&count_private=true&&hide=stars,prs,issues,contribs&show_icons=true&theme=radical" />
