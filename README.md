@@ -1,3 +1,7 @@
+
+<!--
+**iamsabbirsobhani/iamsabbirsobhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ### Mail: 
 [<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail] 
 
