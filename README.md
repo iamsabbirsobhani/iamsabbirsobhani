@@ -26,6 +26,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbirsobhani&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsabbirsobhani&count_private=true&&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true&hide_title=true" />
-</a>
