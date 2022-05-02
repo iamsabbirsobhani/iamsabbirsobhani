@@ -17,7 +17,22 @@ Here are some ideas to get you started:
 
 I'm an independent software engineer that loves to create and share useful content about computer science & the web when I'm somehow not writing code because I have no life whatsoever
 
-
+```javascript
+const aboutMe = {
+   name: "Sabbir Sobhani",
+   pronouns: "he" | "him",
+   code: [Javascript, Node, Python],
+   technologies: {
+      frontEnd: {
+         js: ["Vue", "React", "NextJS", "NuxtJS"],
+         css: ["Material UI", "Tailwind UI"]
+      },
+      databases: ["SQL", "PostgreSQL", "MongoDB"],
+   },
+   currentOccupation: ["Open for job opportunities"],
+   hobbies: ["Listening Music", "Love to Read", "Explore new things"],
+};
+```
 
 
 [<img align="left" alt="sabbir | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail] 
