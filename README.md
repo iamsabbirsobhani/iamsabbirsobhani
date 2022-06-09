@@ -25,7 +25,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["Vue", "React", "NextJS", "NuxtJS"],
-         css: ["Material UI", "Tailwind UI"]
+         style: ["CSS", "SCSS", "Tailwind UI", "Material UI"]
       },
       databases: ["SQL", "PostgreSQL", "MongoDB"],
    },
