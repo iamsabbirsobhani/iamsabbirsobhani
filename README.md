@@ -21,7 +21,7 @@ I'm an independent software engineer that loves to create and share useful conte
 const aboutMe = {
    name: "Sabbir Sobhani",
    pronouns: "he" | "him",
-   code: [Javascript, Node, Python, Java],
+   code: ["Javascript", "TypeScript", "Nodejs", "Python", "Java"],
    technologies: {
       frontEnd: {
          js: ["Vue", "React", "NextJS", "NuxtJS"],
