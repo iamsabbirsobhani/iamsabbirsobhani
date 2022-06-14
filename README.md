@@ -21,16 +21,16 @@ I'm an independent software engineer that loves to create and share useful conte
 const aboutMe = {
    name: "Sabbir Sobhani",
    pronouns: "he" | "him",
-   code: ["Javascript", "TypeScript", "Nodejs", "Python", "Java"],
+   code: ["Javascript", "TypeScript", "Nodejs", "Python"],
    technologies: {
       frontEnd: {
-         js: ["Vue", "React", "NextJS", "NuxtJS"],
-         style: ["CSS", "SCSS", "Tailwind UI", "Material UI"]
+         js: ["Vue", "NuxtJS", "React", "NextJS"],
+         style: ["CSS", "SCSS", "Tailwind UI", "Bootstrap"]
       },
-      databases: ["SQL", "PostgreSQL", "MongoDB"],
+      databases: ["SQL", "PostgreSQL", "MongoDB", "Oracle"],
    },
    currentOccupation: ["Open for job opportunities"],
-   hobbies: ["Listening Music", "Love to Read", "Explore new things"],
+   hobbies: ["Coding", Listening Music", "Love to Read", "Explore new things"],
 };
 ```
 
