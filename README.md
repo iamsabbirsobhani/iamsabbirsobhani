@@ -27,6 +27,9 @@ const aboutMe = {
          js: ["Vue", "NuxtJS", "React", "NextJS"],
          style: ["CSS", "SCSS", "Tailwind UI", "Bootstrap"]
       },
+      backEnd: {
+         framework: ["Expressjs", "Flask", "Django"]
+      },
       databases: ["SQL", "PostgreSQL", "MongoDB", "Oracle"],
    },
    currentOccupation: ["Open for job opportunities"],
