@@ -33,7 +33,7 @@ const aboutMe = {
       databases: ["SQL", "PostgreSQL", "MongoDB", "Oracle"],
    },
    currentOccupation: ["Open for job opportunities"],
-   hobbies: ["Coding", Listening Music", "Love to Read", "Explore new things"],
+   hobbies: ["Coding", "Listening Music", "Love to Read", "Explore new things"],
 };
 ```
 
