@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Sabbir Sobhani, an independent software engineer who loves to create and share useful content about computer science and the web. When I'm not writing code (which is rare because I have no life whatsoever!), you'll find me reading books, exploring new things, and listening to music.
 
 ```javascript
-const aboutMe = {
+const meNskills = {
    name: "Sabbir Sobhani",
    pronouns: "he" | "him",
    code: ["Javascript", "TypeScript", "Nodejs", "Python"],
