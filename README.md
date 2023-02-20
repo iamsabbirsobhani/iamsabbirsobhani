@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hey there!👋🏼 
 
-I'm Sabbir Sobhani, an independent software engineer who loves to create and share useful content about computer science and the web. When I'm not writing code (which is rare because I have no life whatsoever!), you'll find me reading books, exploring new things, and listening to music.
+I'm Sobhani, an independent software engineer who loves to create and share useful content about computer science and the web. When I'm not writing code (which is rare because I have no life whatsoever!), you'll find me reading books, exploring new things, and listening to music.
 
 ```javascript
 const meNskills = {
