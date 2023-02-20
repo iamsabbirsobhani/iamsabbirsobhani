@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey! 👋🏼  I'm Sabbir 
+# Hey there!👋🏼 
 
-I'm an independent software engineer that loves to create and share useful content about computer science & the web when I'm somehow not writing code because I have no life whatsoever
+I'm Sabbir Sobhani, an independent software engineer who loves to create and share useful content about computer science and the web. When I'm not writing code (which is rare because I have no life whatsoever!), you'll find me reading books, exploring new things, and listening to music.
 
 ```javascript
 const aboutMe = {
