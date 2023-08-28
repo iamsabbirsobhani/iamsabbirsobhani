@@ -30,7 +30,7 @@ const meNskills = {
       backEnd: {
          framework: ["Expressjs", "Flask", "Django"]
       },
-      databases: ["SQL", "PostgreSQL", "MongoDB", "Oracle"],
+      databases: ["SQL", "PostgreSQL", "Oracle", "MySQL", "NoSQL", "MongoDB"],
       cloud: ["AWS", "Azure", "Heroku"]
    },
    currentOccupation: ["Open for job opportunities"],
