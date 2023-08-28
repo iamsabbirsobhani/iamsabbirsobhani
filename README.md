@@ -24,11 +24,12 @@ const meNskills = {
    code: ["JavaScript", "TypeScript", "Node.js", "Python"],
    technologies: {
       frontEnd: {
-         js: ["Vue.js", "Nuxt.js", "React.js", "Next.js"],
+         language: ["JavaScript, "TypeScript"],
+         framework: ["Vue.js", "Nuxt.js", "React.js", "Next.js"],
          style: ["CSS", "SCSS", "TailwindCSS", "Bootstrap"]
       },
       backEnd: {
-         language: ["Node.js(JS, TS), "Python", "Java"]
+         language: ["Node.js(JS, TS), "Python", "Java"],
          framework: ["Express.js", "Flask", "Django", "Spring Boot"]
       },
       databases: ["SQL", "PostgreSQL", "Oracle", "MySQL", "NoSQL", "MongoDB"],
