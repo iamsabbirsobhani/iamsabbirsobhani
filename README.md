@@ -32,7 +32,7 @@ const meNskills = {
          language: ["Node.js(JS, TS), "Python", "Java"],
          framework: ["Express.js", "Flask", "Django", "Spring Boot"]
       },
-      database: ["SQL", "PostgreSQL", "Oracle", "MySQL", "NoSQL", "MongoDB"],
+      database: ["SQL", "PostgreSQL", "Oracle", "MySQL", "NoSQL", "MongoDB", "redis"],
       cloud: ["AWS", "Azure", "Heroku"]
    },
    currentOccupation: ["Open for job opportunities"],
