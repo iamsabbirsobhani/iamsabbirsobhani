@@ -31,6 +31,7 @@ const meNskills = {
          framework: ["Expressjs", "Flask", "Django"]
       },
       databases: ["SQL", "PostgreSQL", "MongoDB", "Oracle"],
+      cloud: ["AWS", "Azure", "Heroku"]
    },
    currentOccupation: ["Open for job opportunities"],
    hobbies: ["Coding", "Listening Music", "Love to Read", "Explore new things"],
