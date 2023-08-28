@@ -28,7 +28,8 @@ const meNskills = {
          style: ["CSS", "SCSS", "TailwindCSS", "Bootstrap"]
       },
       backEnd: {
-         framework: ["Express.js", "Flask", "Django"]
+         language: ["Node.js(JS, TS), "Python", "Java"]
+         framework: ["Express.js", "Flask", "Django", "Spring Boot"]
       },
       databases: ["SQL", "PostgreSQL", "Oracle", "MySQL", "NoSQL", "MongoDB"],
       cloud: ["AWS", "Azure", "Heroku"]
