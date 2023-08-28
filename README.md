@@ -21,14 +21,14 @@ I'm Sobhani, an independent software engineer who loves to create and share usef
 const meNskills = {
    name: "Sabbir Sobhani",
    pronouns: "he" | "him",
-   code: ["Javascript", "TypeScript", "Nodejs", "Python"],
+   code: ["JavaScript", "TypeScript", "Node.js", "Python"],
    technologies: {
       frontEnd: {
          js: ["Vue.js", "Nuxt.js", "React.js", "Next.js"],
          style: ["CSS", "SCSS", "TailwindCSS", "Bootstrap"]
       },
       backEnd: {
-         framework: ["Expressjs", "Flask", "Django"]
+         framework: ["Express.js", "Flask", "Django"]
       },
       databases: ["SQL", "PostgreSQL", "Oracle", "MySQL", "NoSQL", "MongoDB"],
       cloud: ["AWS", "Azure", "Heroku"]
