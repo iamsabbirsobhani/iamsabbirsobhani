@@ -21,7 +21,7 @@ I'm Sobhani, an independent software engineer who loves to create and share usef
 const meNskills = {
    name: "Sabbir Sobhani",
    pronouns: "he" | "him",
-   code: ["JavaScript", "TypeScript", "Node.js", "Python"],
+   code: ["JavaScript", "TypeScript", "Node.js", "Python", "Java"],
    technologies: {
       frontEnd: {
          language: ["JavaScript, "TypeScript"],
