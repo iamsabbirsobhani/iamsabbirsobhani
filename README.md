@@ -26,7 +26,7 @@ const meNskills = {
       frontEnd: {
          language: ["JavaScript, "TypeScript"],
          framework: ["Vue.js", "Nuxt.js", "React.js", "Next.js"],
-         style: ["CSS", "SCSS", "TailwindCSS", "Bootstrap"]
+         style: ["CSS", "SCSS", "TailwindCSS", "MUI", "Bootstrap"]
       },
       backEnd: {
          language: ["Node.js(JS, TS), "Python", "Java"],
