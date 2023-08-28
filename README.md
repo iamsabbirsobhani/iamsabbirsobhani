@@ -24,8 +24,8 @@ const meNskills = {
    code: ["Javascript", "TypeScript", "Nodejs", "Python"],
    technologies: {
       frontEnd: {
-         js: ["Vue", "NuxtJS", "React", "NextJS"],
-         style: ["CSS", "SCSS", "Tailwind UI", "Bootstrap"]
+         js: ["Vue.js", "Nuxt.js", "React.js", "Next.js"],
+         style: ["CSS", "SCSS", "TailwindCSS", "Bootstrap"]
       },
       backEnd: {
          framework: ["Expressjs", "Flask", "Django"]
